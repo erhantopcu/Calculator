@@ -1,2 +1,2 @@
 # Hesap-Makinesi
-[alt text](https://www.hizliresim.com/91v89cl)
+![hesap](https://user-images.githubusercontent.com/104309463/197273929-7231ca35-3caa-46b3-a2b4-f05c0bd7baaa.JPG)
